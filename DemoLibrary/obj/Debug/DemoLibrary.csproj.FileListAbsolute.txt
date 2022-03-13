@@ -1,0 +1,6 @@
+D:\AspNetApps\Dependency_Injection_D1\DemoLibrary\bin\Debug\DemoLibrary.dll
+D:\AspNetApps\Dependency_Injection_D1\DemoLibrary\bin\Debug\DemoLibrary.pdb
+D:\AspNetApps\Dependency_Injection_D1\DemoLibrary\obj\Debug\DemoLibrary.csproj.AssemblyReference.cache
+D:\AspNetApps\Dependency_Injection_D1\DemoLibrary\obj\Debug\DemoLibrary.csproj.CoreCompileInputs.cache
+D:\AspNetApps\Dependency_Injection_D1\DemoLibrary\obj\Debug\DemoLibrary.dll
+D:\AspNetApps\Dependency_Injection_D1\DemoLibrary\obj\Debug\DemoLibrary.pdb
